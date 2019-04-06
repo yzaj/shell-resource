@@ -1,1 +1,1 @@
-# shell-resource
+# Shell Resource
